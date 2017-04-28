@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "tekeningen2.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "The Frogs and the Hares",
@@ -11,7 +11,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 0
+    "uniqCompNum": 2
   },
   "pages": {
     "index.html": {
@@ -113,7 +113,7 @@
           },
           "title": "MOBIRISE WEBSITE BUILDER",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voorlees<br>Tekeningen<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tolsoty1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">The Hares<br>and<br>The Frogs<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voorlees<br>Tekeningen<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tolsoty1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">The Hares<br>and<br>The Frogs<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"smeltman1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">The melting man</a>"
         }
       ]
     },
@@ -184,7 +184,150 @@
         }
       ]
     },
-    "tekeningen3.html": {
+    "tolsoty1.html": {
+      "settings": {
+        "title": "tolstoy hallo"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "36px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_anchor": "header4-9",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/p-11-12-3898x3071-79.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "The Hares <br>and <br>The Frogs<br>",
+          "text": "De fabel die rond 1904 geschreven werd door Tolstoy wordt geïnterpreteerd door Caroline Verlaeckt en in een nieuw jasje gestoken. <br>Het toch wel donkere kinderverhaal speelt zich af in een sekte van de hazen die het zat zijn te worden misbruikt door hun mede dieren. <br>Een moeder probeert haar kleintje te overtuigen dat zelfmoord de beste oplossing is .",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"tolstoy2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Preview</a> "
+        }
+      ]
+    },
+    "meltingman1.html": {
+      "settings": {
+        "title": "smeltman",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Melting man",
+          "text": "Het verhaal over een man wiens huid uitrekt.<br>Hij probeert zichzelf bij elkaar te houden door middel van touw.<br>Hij is het zat hoe hij behandeld wordt door zijn medemens en loopt weg.<br>Dit is zijn reis naar vrijheid.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">preview</a> "
+        }
+      ]
+    },
+    "tekeningen1.html": {
+      "settings": {
+        "title": "tekeningen hallo"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            ".btn": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_anchor": "header4-10",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Voorlees <br>tekeningen",
+          "text": "Op dinsdag en donderdag worden we in het atelier van illustratie voorgelezen voor een uur. <br>Tijdens dit voorlezen wordt er getekend.&nbsp;<br>We laten onze fantasie de vrije loop&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">preview</a> "
+        }
+      ]
+    },
+    "tekeningen2.html": {
       "settings": {
         "title": "voorlees tekeningen"
       },
@@ -245,110 +388,6 @@
           },
           "_anchor": "slider2-5",
           "articleLayout": true
-        }
-      ]
-    },
-    "tolsoty1.html": {
-      "settings": {
-        "title": "tolstoy hallo"
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "20px"
-            },
-            ".btn": {
-              "font-size": "36px",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
-          "_anchor": "header4-9",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p-11-12-3898x3071-79.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false
-          },
-          "title": "The Hares <br>and <br>The Frogs<br>",
-          "text": "De fabel die rond 1904 geschreven werd door Tolstoy wordt geïnterpreteerd door Caroline Verlaeckt en in een nieuw jasje gestoken. <br>Het toch wel donkere kinderverhaal speelt zich af in een sekte van de hazen die het zat zijn te worden misbruikt door hun mede dieren. <br>Een moeder probeert haar kleintje te overtuigen dat zelfmoord de beste oplossing is .",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"tolstoy2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Preview</a> "
-        }
-      ]
-    },
-    "tekeningen2.html": {
-      "settings": {
-        "title": "tekeningen hallo"
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "color": "#000000",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "P": {
-              "color": "#000000",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            ".btn": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
-          "_anchor": "header4-10",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "images/bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false
-          },
-          "title": "Voorlees <br>tekeningen",
-          "text": "Op dinsdag en donderdag worden we in het atelier van illustratie voorgelezen voor een uur. <br>Tijdens dit voorlezen wordt er getekend.&nbsp;<br>We laten onze fantasie de vrije loop&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">preview</a> "
         }
       ]
     }
