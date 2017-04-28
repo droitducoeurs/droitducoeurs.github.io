@@ -113,7 +113,7 @@
           },
           "title": "MOBIRISE WEBSITE BUILDER",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voorlees<br>Tekeningen<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tolsoty1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">The Hares<br>and<br>The Frogs<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"smeltman1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">The melting man</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voorlees<br>Tekeningen<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tolsoty1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">The Hares<br>and<br>The Frogs<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"meltingman1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">The melting man</a>"
         }
       ]
     },
@@ -195,18 +195,18 @@
           "_name": "header4",
           "_styles": {
             "H1": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "font-size": "20px"
             },
             ".btn": {
-              "font-size": "36px",
+              "font-size": "20px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
@@ -214,10 +214,10 @@
           "_anchor": "header4-9",
           "_params": {
             "parallax": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/p-11-12-3898x3071-79.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -233,7 +233,7 @@
           },
           "title": "The Hares <br>and <br>The Frogs<br>",
           "text": "De fabel die rond 1904 geschreven werd door Tolstoy wordt geïnterpreteerd door Caroline Verlaeckt en in een nieuw jasje gestoken. <br>Het toch wel donkere kinderverhaal speelt zich af in een sekte van de hazen die het zat zijn te worden misbruikt door hun mede dieren. <br>Een moeder probeert haar kleintje te overtuigen dat zelfmoord de beste oplossing is .",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"tolstoy2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Preview</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tolstoy2.html\" data-toolbar=\"-mbrBtnMove\">Preview</a> "
         }
       ]
     },
@@ -323,7 +323,7 @@
           },
           "title": "Voorlees <br>tekeningen",
           "text": "Op dinsdag en donderdag worden we in het atelier van illustratie voorgelezen voor een uur. <br>Tijdens dit voorlezen wordt er getekend.&nbsp;<br>We laten onze fantasie de vrije loop&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">preview</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen2.html\" data-toolbar=\"-mbrBtnMove\">preview</a> "
         }
       ]
     },
