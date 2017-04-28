@@ -45,6 +45,7 @@
           "_name": "content5",
           "_anchor": "content5-6",
           "_params": {
+            "showCaption": "noCaption",
             "paddingTop": "3",
             "paddingBottom": "0",
             "showTitle": true,
