@@ -254,10 +254,10 @@
           "_anchor": "header4-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "images/bg.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -273,7 +273,19 @@
           },
           "title": "Melting man",
           "text": "Het verhaal over een man wiens huid uitrekt.<br>Hij probeert zichzelf bij elkaar te houden door middel van touw.<br>Hij is het zat hoe hij behandeld wordt door zijn medemens en loopt weg.<br>Dit is zijn reis naar vrijheid.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">preview</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">preview</a> ",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
         }
       ]
     },
