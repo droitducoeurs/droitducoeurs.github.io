@@ -68,3 +68,10 @@
 #header4-10 .btn {
   font-family: 'Open Sans Condensed', sans-serif;
 }
+
+#slider-2 H1 {
+  color: #000000;
+  text-align: left;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+}

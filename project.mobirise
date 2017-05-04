@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "tekeningen2.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "The Frogs and the Hares",
@@ -11,7 +11,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 2
+    "uniqCompNum": 3
   },
   "pages": {
     "index.html": {
@@ -233,7 +233,7 @@
             "showArrow": false
           },
           "title": "The Hares <br>and <br>The Frogs<br>",
-          "text": "De fabel die rond 1904 geschreven werd door Tolstoy wordt geïnterpreteerd door Caroline Verlaeckt en in een nieuw jasje gestoken. <br>Het toch wel donkere kinderverhaal speelt zich af in een sekte van de hazen die het zat zijn te worden misbruikt door hun mede dieren. <br>Een moeder probeert haar kleintje te overtuigen dat zelfmoord de beste oplossing is .",
+          "text": "De rond 1904 door Tolstoy geschreven fabel krijgt van Caroline Verlaeckt een nieuw jasje. <br>Het donkere 'kinderverhaal' vertelt het verhaal van een hazensekte.<br>Hun lot als slachtoffers van hun mededieren zat, overtuigt een moeder haar kleintje dat zelfmoord de beste uitweg is.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tolstoy2.html\" data-toolbar=\"-mbrBtnMove\">Preview</a> "
         }
       ]
@@ -251,6 +251,18 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
           "_anchor": "header4-1",
           "_params": {
             "parallax": true,
@@ -273,19 +285,7 @@
           },
           "title": "Melting man",
           "text": "Het verhaal over een man wiens huid uitrekt.<br>Hij probeert zichzelf bij elkaar te houden door middel van touw.<br>Hij is het zat hoe hij behandeld wordt door zijn medemens en loopt weg.<br>Dit is zijn reis naar vrijheid.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">preview</a> ",
-          "_styles": {
-            "H1": {
-              "color": "#000000",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "P": {
-              "color": "#000000",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">preview</a> "
         }
       ]
     },
@@ -335,7 +335,7 @@
             "showArrow": false
           },
           "title": "Voorlees <br>tekeningen",
-          "text": "Op dinsdag en donderdag worden we in het atelier van illustratie voorgelezen voor een uur. <br>Tijdens dit voorlezen wordt er getekend.&nbsp;<br>We laten onze fantasie de vrije loop&nbsp;",
+          "text": "In het atelier wordt tweemaal per week voorgelezen. <br>Tijdens het voorlezen gaat onze fantasie met het verhaal op de loop. <br>Hier vindt u een glimp van wat daar ontstaat.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tekeningen2.html\" data-toolbar=\"-mbrBtnMove\">preview</a> "
         }
       ]
@@ -401,6 +401,100 @@
           },
           "_anchor": "slider2-5",
           "articleLayout": true
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/scn-2000x1414.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "semester 2",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/scn-2000x1413.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/scn-1-2000x1413.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/scn-1-2000x1414.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/scn-2-2000x1414.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/scn-2000x2831.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#ffffff",
+            "showBullets": false
+          },
+          "_anchor": "slider-2",
+          "articleLayout": false,
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "20px"
+            }
+          }
         }
       ]
     }
